@@ -78,7 +78,7 @@ final class Task7Y2024: TaskProvider {
     }
 }
 
-private extension String {
+extension String {
 
     subscript (i: Int) -> String {
         self[i ..< i + 1]
