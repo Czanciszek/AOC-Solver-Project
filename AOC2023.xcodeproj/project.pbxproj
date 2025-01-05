@@ -65,6 +65,7 @@
 		37A4EE072B4ABE19002DF506 /* TaskLoaderServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A4EE062B4ABE19002DF506 /* TaskLoaderServiceTests.swift */; };
 		37AE58152CFE403F0027CD6E /* Task1Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37AE58142CFE403F0027CD6E /* Task1Y2024.swift */; };
 		37AE58172CFE405C0027CD6E /* Task2Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37AE58162CFE405C0027CD6E /* Task2Y2024.swift */; };
+		37EA672C2D1AD235004D688E /* Task9Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA672B2D1AD235004D688E /* Task9Y2024.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -146,6 +147,7 @@
 		37A4EE062B4ABE19002DF506 /* TaskLoaderServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskLoaderServiceTests.swift; sourceTree = "<group>"; };
 		37AE58142CFE403F0027CD6E /* Task1Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1Y2024.swift; sourceTree = "<group>"; };
 		37AE58162CFE405C0027CD6E /* Task2Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2Y2024.swift; sourceTree = "<group>"; };
+		37EA672B2D1AD235004D688E /* Task9Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task9Y2024.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -388,6 +390,7 @@
 				3703331A2D04DB9D00599424 /* Task6Y2024.swift */,
 				375DBA762D183DB900259823 /* Task7Y2024.swift */,
 				373803152D1877CE00CB4393 /* Task8Y2024.swift */,
+				37EA672B2D1AD235004D688E /* Task9Y2024.swift */,
 			);
 			path = 2024;
 			sourceTree = "<group>";
@@ -551,6 +554,7 @@
 				37A4EDFC2B4A08D8002DF506 /* View+Loadable.swift in Sources */,
 				373803162D1877CE00CB4393 /* Task8Y2024.swift in Sources */,
 				370333192D04C93B00599424 /* Task5Y2024.swift in Sources */,
+				37EA672C2D1AD235004D688E /* Task9Y2024.swift in Sources */,
 				3716EC962B48A4EC008CFC12 /* Task9.swift in Sources */,
 				3716EC9F2B48A761008CFC12 /* TaskProvider.swift in Sources */,
 				3716ECC42B499461008CFC12 /* View+ErrorAlert.swift in Sources */,

@@ -13,8 +13,6 @@ final class Task8Y2024: TaskProvider {
         let x: Int
         let y: Int
     }
-    
-
 
     func solveA() -> Int {
 

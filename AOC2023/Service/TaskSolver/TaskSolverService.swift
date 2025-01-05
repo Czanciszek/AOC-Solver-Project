@@ -60,6 +60,7 @@ final class TaskSolverService: TaskSolverServiceProtocol {
         case "6": Task6Y2024(data: data)
         case "7": Task7Y2024(data: data)
         case "8": Task8Y2024(data: data)
+        case "9": Task9Y2024(data: data)
         default: throw TaskError.unknownTask
         }
     }
