@@ -66,6 +66,7 @@
 		37AE58152CFE403F0027CD6E /* Task1Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37AE58142CFE403F0027CD6E /* Task1Y2024.swift */; };
 		37AE58172CFE405C0027CD6E /* Task2Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37AE58162CFE405C0027CD6E /* Task2Y2024.swift */; };
 		37C1333F2D2B209D0032AA91 /* Task10Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C1333E2D2B209D0032AA91 /* Task10Y2024.swift */; };
+		37C133412D2C018A0032AA91 /* Task11Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C133402D2C018A0032AA91 /* Task11Y2024.swift */; };
 		37EA672C2D1AD235004D688E /* Task9Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA672B2D1AD235004D688E /* Task9Y2024.swift */; };
 /* End PBXBuildFile section */
 
@@ -149,6 +150,7 @@
 		37AE58142CFE403F0027CD6E /* Task1Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1Y2024.swift; sourceTree = "<group>"; };
 		37AE58162CFE405C0027CD6E /* Task2Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2Y2024.swift; sourceTree = "<group>"; };
 		37C1333E2D2B209D0032AA91 /* Task10Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task10Y2024.swift; sourceTree = "<group>"; };
+		37C133402D2C018A0032AA91 /* Task11Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task11Y2024.swift; sourceTree = "<group>"; };
 		37EA672B2D1AD235004D688E /* Task9Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task9Y2024.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -394,6 +396,7 @@
 				373803152D1877CE00CB4393 /* Task8Y2024.swift */,
 				37EA672B2D1AD235004D688E /* Task9Y2024.swift */,
 				37C1333E2D2B209D0032AA91 /* Task10Y2024.swift */,
+				37C133402D2C018A0032AA91 /* Task11Y2024.swift */,
 			);
 			path = 2024;
 			sourceTree = "<group>";
@@ -541,6 +544,7 @@
 			files = (
 				3716EC9B2B48A4EC008CFC12 /* Task7.swift in Sources */,
 				3716EC9C2B48A4EC008CFC12 /* Task2.swift in Sources */,
+				37C133412D2C018A0032AA91 /* Task11Y2024.swift in Sources */,
 				3703331B2D04DB9D00599424 /* Task6Y2024.swift in Sources */,
 				3716EC772B4892B4008CFC12 /* MainConstants.swift in Sources */,
 				3716EC9A2B48A4EC008CFC12 /* Task6.swift in Sources */,
