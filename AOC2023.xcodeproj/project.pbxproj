@@ -65,6 +65,7 @@
 		37A4EE072B4ABE19002DF506 /* TaskLoaderServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A4EE062B4ABE19002DF506 /* TaskLoaderServiceTests.swift */; };
 		37AE58152CFE403F0027CD6E /* Task1Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37AE58142CFE403F0027CD6E /* Task1Y2024.swift */; };
 		37AE58172CFE405C0027CD6E /* Task2Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37AE58162CFE405C0027CD6E /* Task2Y2024.swift */; };
+		37C1333F2D2B209D0032AA91 /* Task10Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C1333E2D2B209D0032AA91 /* Task10Y2024.swift */; };
 		37EA672C2D1AD235004D688E /* Task9Y2024.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA672B2D1AD235004D688E /* Task9Y2024.swift */; };
 /* End PBXBuildFile section */
 
@@ -147,6 +148,7 @@
 		37A4EE062B4ABE19002DF506 /* TaskLoaderServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskLoaderServiceTests.swift; sourceTree = "<group>"; };
 		37AE58142CFE403F0027CD6E /* Task1Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1Y2024.swift; sourceTree = "<group>"; };
 		37AE58162CFE405C0027CD6E /* Task2Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2Y2024.swift; sourceTree = "<group>"; };
+		37C1333E2D2B209D0032AA91 /* Task10Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task10Y2024.swift; sourceTree = "<group>"; };
 		37EA672B2D1AD235004D688E /* Task9Y2024.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task9Y2024.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -391,6 +393,7 @@
 				375DBA762D183DB900259823 /* Task7Y2024.swift */,
 				373803152D1877CE00CB4393 /* Task8Y2024.swift */,
 				37EA672B2D1AD235004D688E /* Task9Y2024.swift */,
+				37C1333E2D2B209D0032AA91 /* Task10Y2024.swift */,
 			);
 			path = 2024;
 			sourceTree = "<group>";
@@ -546,6 +549,7 @@
 				37A4EDF22B49EDE4002DF506 /* FileServiceProtocol.swift in Sources */,
 				3716EC7D2B489C56008CFC12 /* APIError.swift in Sources */,
 				3716EC862B48A3B4008CFC12 /* TaskSolverService.swift in Sources */,
+				37C1333F2D2B209D0032AA91 /* Task10Y2024.swift in Sources */,
 				375DBA772D183DB900259823 /* Task7Y2024.swift in Sources */,
 				3716EC732B4891F5008CFC12 /* TaskButtonView.swift in Sources */,
 				3716EC492B4881F7008CFC12 /* MainView.swift in Sources */,
